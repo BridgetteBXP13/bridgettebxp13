@@ -27,4 +27,3 @@ This repo holds a simple program I wrote for my C/Unix class, it will parse a ur
 ## PA2
 This repo holds two simple programs I wrote for my C/Unix class, it has two main parts. filecnt.c will count the files (and their total bytes) given a directory path by using recursion and the filedisp.c program. filedisp.c recieve input from the user and work along filecnt.c to achieve the goal mentioned above, it utilizes pipe techniques as a filter. 
 
-## PA2
