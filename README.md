@@ -8,11 +8,11 @@ In this repo, I did a lot of text processing with Python and implemented multipl
 This repo is nearly identical to mine as we worked as partners in most of our NLP class.
 
 ## Snake Debate Bot
-The full portfolio can be found [here](https://bridgettebxp13/Snake-Debate-Bot/).
+The full portfolio can be found [here](https://github.com/BridgetteBXP13/Snake-Debate-Bot/).
 This repo holds the Snake Debate Chatbot, which is a chatbot that utilizes Python Flask and a finetuned Distilbert model with Tensorflow to respond correctly to the user with 50 topics and handwritten responses based on the predicted category.
 
 ## Machine Learning
-The full portfolio can be found [here](https://bridgettebxp13/Machine-Learning/).
+The full portfolio can be found [here](https://github.com/BridgetteBXP13/Machine-Learning/).
 In this repo I utilized R notebooks in RStudio to create many machine learning models. I also created Naive Bayes and Linear Regression from scratch in C++. As well as utilized Python with Google Collab and Jupyter Notebook to further explore different models, neural networks, and deeplearning.
 
 ## Web_Class
