@@ -1,18 +1,18 @@
 # My Repositories:
 
 ## NLP:
-The full portfolio can be found [here](bridgettebxp13.github.io/NLP).
+The full portfolio can be found [here](https://github.com/BridgetteBXP13/NLP).
 In this repo, I did a lot of text processing with Python and implemented multiple NLP techniques. Such as utilizing NLTK to manage tokens/lemmas to develope a word guessing game. I also experimented with WordNet to make use of synsets and SentiWordNet to calculate polarity scores in sentences. Developed software which used Ngrams and LaPlace probabilities to predict the language of a sentence. Implemented a recusive Web Crawler to skim news articles and then created a knowledge base out of them. Overviewed different ways of syntax parsing. Utilized Bernoulli Naive Bayes, Logisitic Regression, and Neural Networks to predict the true author from a given text. Developed a debating Chatbot using Distilbert, this one is a bit special with it's own repo!
 
 ## NLP-Tera-Parish
 This repo is nearly identical to mine as we worked as partners in most of our NLP class.
 
 ## Snake Debate Bot
-The full portfolio can be found [here](https://bridgettebxp13.github.io/Snake-Debate-Bot/).
+The full portfolio can be found [here](https://bridgettebxp13/Snake-Debate-Bot/).
 This repo holds the Snake Debate Chatbot, which is a chatbot that utilizes Python Flask and a finetuned Distilbert model with Tensorflow to respond correctly to the user with 50 topics and handwritten responses based on the predicted category.
 
 ## Machine Learning
-The full portfolio can be found [here](https://bridgettebxp13.github.io/Machine-Learning/).
+The full portfolio can be found [here](https://bridgettebxp13/Machine-Learning/).
 In this repo I utilized R notebooks in RStudio to create many machine learning models. I also created Naive Bayes and Linear Regression from scratch in C++. As well as utilized Python with Google Collab and Jupyter Notebook to further explore different models, neural networks, and deeplearning.
 
 ## Web_Class
